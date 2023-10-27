@@ -1,29 +1,31 @@
 @import './common';
 @import './catalog';
 
-:root{
- --black:#141414;
- --lightblack: rgba(20, 20, 20, 0.50);
- --white: #fff;
- --dark-green: #1E2827;
- --figcaption: rgba(255, 255, 255, 0.50);
- 
+:root {
+    --black: #141414;
+    --lightblack: rgba(20, 20, 20, 0.50);
+    --white: #fff;
+    --dark-green: #1E2827;
+    --figcaption: rgba(255, 255, 255, 0.50);
+
 }
-body{
+
+body {
     font-family: 'epilouge', sans-serif;
 }
 
-.list{
+.list {
     list-style: none;
     padding: 0;
 }
+
 h3,
-p{
+p {
     margin: 0px;
 }
 
 
-img{
+img {
     max-width: 100%;
     height: auto;
 }
@@ -84,10 +86,12 @@ img{
 
 
 
-    
 
 
 
 
 
 
+
+
+@import './new-watches';
