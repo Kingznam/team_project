@@ -1,21 +1,21 @@
 {
-  "name": "team_project",
+  "name": "v-coders-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ruki21.github.io/team_project",
+  "homepage": "https://ruki21.github.io/v-coders-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team_project/"
+    "build": "parcel build src/*.html --public-url /v-coders-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruki21/team_project.git"
+    "url": "git+https://github.com/ruki21/v-coders-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ruki21/team_project/issues"
+    "url": "https://github.com/ruki21/v-coders-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
