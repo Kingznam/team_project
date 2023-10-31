@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+
+
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-list a {
+    color: #FFF;
+
+    font-family: Epilogue;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.45px;
+}
